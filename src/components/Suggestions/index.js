@@ -14,37 +14,37 @@ const items = [
     {
         key: String(Math.random()),
         img: img1,
-        label: 'Exemplo'
+        label: 'Recarga'
     }, 
     {
         key: String(Math.random()),
         img: img2,
-        label: 'Exemplo'
+        label: 'Uber'
     }, 
     {
         key: String(Math.random()),
         img: img3,
-        label: 'Exemplo'
+        label: 'Ônibus'
     }, 
     {
         key: String(Math.random()),
         img: img4,
-        label: 'Exemplo'
+        label: 'TV'
     }, 
     {
         key: String(Math.random()),
         img: img5,
-        label: 'Exemplo'
+        label: 'Doações'
     }, 
     {
         key: String(Math.random()),
         img: img6,
-        label: 'Exemplo'
+        label: 'Barras'
     }, 
     {
         key: String(Math.random()),
         img: img7,
-        label: 'Exemplo'
+        label: 'FAQ'
 }]
 
 export default function Suggestions() {
